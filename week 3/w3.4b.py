@@ -16,12 +16,6 @@ class Koordinat3D(Koordinat2D):
         print(f'y = {self.y}')
         print(f'z = {self.z}')
 
-titik1 = Koordinat3D(1, 2, 3)  
+titik1 = Koordinat3D(1, None, 3)  
 titik1.tampilkan_koord()  
 
-delattr(titik1, 'z')
-print('Efek fungsi delattr()')
-titik1.tampilkan_koord()  
-del titik1.y
-print('Efek keyword del')
-titik1.tampilkan_koord()

@@ -24,12 +24,3 @@ del titik1.y
 print('efek keyword del')
 titik1.tampilkan_koord()
 
-# Membuat objek titik1
-titik1 = Koordinat3D(1, 2, 3)  
-titik1.tampilkan_koord()  
-
-# Menghapus atribut y hanya dari instance titik1
-del titik1.y  
-
-print('\nEfek keyword del')
-titik1.tampilkan_koor
