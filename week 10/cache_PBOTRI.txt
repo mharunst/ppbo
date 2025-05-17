@@ -1,0 +1,6 @@
+Ini adalah file cache dari web PBOTRI
+Start_cache
+Selamat datang di Laman Praktikum PBO TRI
+Pemrograman itu mudah dan menyenangkan bukan!
+Terima Kasih!!
+***Baris tambahan di file cache***

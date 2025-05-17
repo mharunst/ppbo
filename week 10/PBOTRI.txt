@@ -1,0 +1,6 @@
+Ini adalah file dummy untuk simulasi cache.
+Cache dari web pbotri.com
+Start_cache
+Selamat datang di Laman Praktikum PBO TRI
+Pemrograman itu mudah dan menyenangkan bukan!
+Terima Kasih!!
